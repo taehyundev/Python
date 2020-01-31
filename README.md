@@ -1,6 +1,7 @@
 # python Study
 
 크롤링 구현을 위한 python 기초 공부
+2020-01-31 정리 마무리
 
 #Study_List
 
@@ -12,4 +13,4 @@
 - Chapter06 - dictionary
 - Chapter07 - set(집합)
 - Chapter08 - 함수&Class
-- Chapter09 - module
+
