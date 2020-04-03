@@ -3,7 +3,7 @@
 크롤링 구현을 위한 python 기초 공부
 2020-01-31 정리 마무리
 
-#Study_List
+#Study_List - Basic_Grammer
 
 - Chapter01 - Print&Input
 - Chapter02 - For&While&If
