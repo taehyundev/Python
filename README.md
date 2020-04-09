@@ -14,3 +14,6 @@
 - Chapter07 - set(집합)
 - Chapter08 - 함수&Class
 
+
+.etc
+> turtle에 대한 부분에 대한 공부 필요
