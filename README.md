@@ -17,3 +17,6 @@
 
 .etc
 > turtle에 대한 부분에 대한 공부 필요
+ 
+
+Assignment + 시험공부에 대해서 서기
