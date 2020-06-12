@@ -6,11 +6,9 @@ cnvs = Canvas(top, width =500, height = 200,bg='white')
 cnvs.grid(row=0, column=0)
 
 def draw():
-    cnvs = Canvas(top, width =500, height = 200,bg='white')
-    cnvs.grid(row=0, column=0)
+    cnvs.delete(ALL)
     pick=int(group_a.get())
     checked = int(ch.get())
-    cnvs.config(bg='white')
     if checked==1:
         if pick == 1:  
             cnvs.create_rectangle(30,30,470,170,fill="pink")
